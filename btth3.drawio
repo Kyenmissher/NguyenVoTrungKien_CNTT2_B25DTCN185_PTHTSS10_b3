@@ -82,25 +82,15 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Đã tìm thấy xe&quot;" plantUmlId="msg_13" plantUmlBaseStyle="endArrow=classic;endFill=1;endSize=9;html=1;rounded=0;edgeStyle=none;curved=0;strokeColor=#181818;strokeWidth=1;fontColor=#000000;fontSize=13;verticalAlign=bottom;labelBackgroundColor=none;dashed=1;dashPattern=2 2;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="&quot;Đã tìm thấy xe&quot;" id="9D9MoP3qBDdIN_tpGeNl-51">
-          <mxCell edge="1" parent="9D9MoP3qBDdIN_tpGeNl-35" style="endArrow=classic;endFill=1;endSize=9;html=1;rounded=0;edgeStyle=none;curved=0;strokeColor=#181818;strokeWidth=1;fontColor=#000000;fontSize=13;verticalAlign=bottom;labelBackgroundColor=none;dashed=1;dashPattern=2 2;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="9D9MoP3qBDdIN_tpGeNl-58">
-            <mxGeometry relative="1" x="0.217" as="geometry">
+        <UserObject label="" plantUmlId="msg_14" plantUmlBaseStyle="endArrow=classic;endFill=1;endSize=9;html=1;rounded=0;edgeStyle=none;curved=0;strokeColor=#181818;strokeWidth=1;fontColor=#000000;fontSize=13;verticalAlign=bottom;labelBackgroundColor=none;dashed=1;dashPattern=2 2;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="&quot;Không tìm được tài xế&quot;" id="9D9MoP3qBDdIN_tpGeNl-52">
+          <mxCell edge="1" parent="9D9MoP3qBDdIN_tpGeNl-35" style="endArrow=classic;endFill=1;endSize=9;html=1;rounded=0;edgeStyle=none;curved=0;strokeColor=#181818;strokeWidth=1;fontColor=#000000;fontSize=13;verticalAlign=bottom;labelBackgroundColor=none;dashed=1;dashPattern=2 2;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;">
+            <mxGeometry relative="1" x="0.1453" y="80" as="geometry">
+              <mxPoint as="offset" />
               <Array as="points">
-                <mxPoint x="252" y="409.5" />
+                <mxPoint x="240" y="520" />
               </Array>
-              <mxPoint x="339.2558857142858" y="409.5" as="sourcePoint" />
-              <mxPoint x="170" y="409.5" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="&quot;Không tìm được tài xế&quot;" plantUmlId="msg_14" plantUmlBaseStyle="endArrow=classic;endFill=1;endSize=9;html=1;rounded=0;edgeStyle=none;curved=0;strokeColor=#181818;strokeWidth=1;fontColor=#000000;fontSize=13;verticalAlign=bottom;labelBackgroundColor=none;dashed=1;dashPattern=2 2;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="&quot;Không tìm được tài xế&quot;" id="9D9MoP3qBDdIN_tpGeNl-52">
-          <mxCell edge="1" parent="9D9MoP3qBDdIN_tpGeNl-35" style="endArrow=classic;endFill=1;endSize=9;html=1;rounded=0;edgeStyle=none;curved=0;strokeColor=#181818;strokeWidth=1;fontColor=#000000;fontSize=13;verticalAlign=bottom;labelBackgroundColor=none;dashed=1;dashPattern=2 2;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0.729;entryY=0.634;entryDx=0;entryDy=0;entryPerimeter=0;" target="9D9MoP3qBDdIN_tpGeNl-54">
-            <mxGeometry relative="1" x="-0.051" as="geometry">
-              <Array as="points">
-                <mxPoint x="252" y="458.8" />
-              </Array>
-              <mxPoint x="339.2558857142858" y="458.79999999999995" as="sourcePoint" />
-              <mxPoint x="163.2618500000001" y="458.79999999999995" as="targetPoint" />
+              <mxPoint x="340" y="520" as="sourcePoint" />
+              <mxPoint x="165.38" y="520" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -120,10 +110,13 @@
           <mxGeometry height="257" width="80" x="550" y="360" as="geometry" />
         </mxCell>
         <mxCell id="9D9MoP3qBDdIN_tpGeNl-59" parent="9D9MoP3qBDdIN_tpGeNl-35" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="236.8" width="10" x="335" y="230" as="geometry" />
+          <mxGeometry height="170.4" width="10" x="335" y="230" as="geometry" />
         </mxCell>
         <mxCell id="9D9MoP3qBDdIN_tpGeNl-60" parent="9D9MoP3qBDdIN_tpGeNl-35" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="470" y="254.65" as="geometry" />
+        </mxCell>
+        <mxCell id="MuRM-IzV491K5Cy3KR-f-2" parent="9D9MoP3qBDdIN_tpGeNl-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Thông báo kết quả cuối cùng&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="115" x="200" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
